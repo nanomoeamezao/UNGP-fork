@@ -1,3 +1,8 @@
+# BOOTLEG
+Recompile for 0.98, fixed intel CTD
+
+
+
 # README #
 
 Unofficial New Game Plus(UNGP) is a mod for the game [Starsector](http://fractalsoftworks.com). The mod provides a
