@@ -20,7 +20,7 @@ public class UNGPFont {
     private static final Pattern ENG_CHECKER = Pattern.compile("^[\\sa-zA-Z]*");
 
     public static boolean notOnlyEN(String s) {
-        return ENG_CHECKER.matcher(s).matches();
+        return false;
     }
 
     /**

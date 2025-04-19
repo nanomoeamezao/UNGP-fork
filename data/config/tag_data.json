@@ -2,7 +2,7 @@
 	# only applies to intel tags
 	
 	"ungp":{
-		"name":"重生",
+		"name":"UNGP",
 		"color":[70,130,180,255],
 		"width":100,
 		"putFirst":true,

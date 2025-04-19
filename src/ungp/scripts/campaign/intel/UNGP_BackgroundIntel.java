@@ -17,6 +17,10 @@ import static ungp.scripts.utils.Constants.backgrounds_i18n;
 public class UNGP_BackgroundIntel extends BaseIntelPlugin {
     private SectorEntityToken systemLocation;
 
+    protected String getName() {
+        return "UNGP";
+    }
+
     public UNGP_BackgroundIntel(StarSystemAPI system) {
         systemLocation = system == null ? null : system.getHyperspaceAnchor();
     }

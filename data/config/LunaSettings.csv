@@ -1,8 +1,8 @@
 fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
-ungp_generalHeader,General Header,Header,通用,,,,,
-ungp_noLevelLimit,取消记录重生点的等级限制,Boolean,false,,设置为 [TRUE] 来取消重生点记录的等级限制，通常情况下你需要到达 [满级] 才能记录重生点。,,,
-ungp_noTimesLimit,取消记录重生点的次数限制,Boolean,false,,设置为 [TRUE] 来取消重生点记录的次数限制，通常情况下你只能记录一次。,,,
+ungp_generalHeader,General Header,Header,General,,,,,
+ungp_noLevelLimit,Cancel Record Level Limitation,Boolean,false,,Set to true to cancel the record level limit. You have to reach the [max player level] to unlock the savepoint recording by default.,,,
+ungp_noTimesLimit,Cancel Record Times Limitation,Boolean,false,,"Set to true to cancel the record times limit, which means you could record the savepoints [whenever you want] if you meet the record condition.",,,
 ,,,,,,,,
 ungp_uiHeader,UI Header,Header,UI,,,,,
-ungp_noSpecialistWidget,隐藏左上角的专家模式UI控件,Boolean,false,,设置为 [TRUE] 来隐藏专家模式开启时，左上角的专家模式UI控件。,,,
-ungp_noRuleMessageWhileBattleStart,隐藏战斗开始时的专家模式规则信息,Boolean,false,,设置为 [TRUE] 来隐藏 [战斗开始] 时的左上角出现的专家模式规则信息。,,,
+ungp_noSpecialistWidget,Hide Left-Top Specialist Widget,Boolean,false,,Set to true to disable/hide the left top [specialist widget].,,,
+ungp_noRuleMessageWhileBattleStart,Hide Rule Message At the start of Battle,Boolean,false,,Set to true to disable/hide the left top rule messages shown [at the start of the battle].,,,
