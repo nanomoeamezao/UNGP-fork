@@ -1,11 +1,11 @@
 {
   "id": "ungp",
-  "name": "Unofficial New Game Plus",
+  "name": "Unofficial New Game Plus - fork",
   "author": "Originem\nCode Assistant: AnyIDElse\nTranslated By RUA, Fax, ILLEXIUS, Hisidine\nSprites by Originem, Light of Shadow, Helai\nIdeas from Haixian Group\nSpecial Thanks: Game-icons.net,15.ai \n Bootleg: nnnnnnnnmnmnmnmnmnm",
   "version": {
     "major": 2,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   },
   "dependencies": [
     {

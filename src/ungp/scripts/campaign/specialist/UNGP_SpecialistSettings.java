@@ -12,10 +12,10 @@ public final class UNGP_SpecialistSettings {
     public static final String RULES_ENABLE_IN_SIMULATION = "UNGP_rulesEnableInSimulation";
 
     public enum Difficulty {
-        GAMMA("Gamma", 1, 0f, "graphics/ungp/icons/UNGP_difficulty_gamma.png", new Color(232, 154, 65), 4, 8),
-        BETA("Beta", 10, 0.5f, "graphics/ungp/icons/UNGP_difficulty_beta.png", new Color(179, 225, 41), 8, 20),
-        ALPHA("Alpha", 20, 1f, "graphics/ungp/icons/UNGP_difficulty_alpha.png", new Color(119, 255, 230), 12, 42),
-        OMEGA("Omega", 30, 1.5f, "graphics/ungp/icons/UNGP_difficulty_omega.png", new Color(145, 70, 255), 20, 64);
+        GAMMA("Gamma", 1, 0f, "graphics/ungp/icons/UNGP_difficulty_gamma.png", new Color(232, 154, 65), 1, 8),
+        BETA("Beta", 10, 0.5f, "graphics/ungp/icons/UNGP_difficulty_beta.png", new Color(179, 225, 41), 1, 20),
+        ALPHA("Alpha", 20, 1f, "graphics/ungp/icons/UNGP_difficulty_alpha.png", new Color(119, 255, 230), 1, 42),
+        OMEGA("Omega", 30, 1.5f, "graphics/ungp/icons/UNGP_difficulty_omega.png", new Color(145, 70, 255), 1, 64);
 
         public final String name;
         @Deprecated
